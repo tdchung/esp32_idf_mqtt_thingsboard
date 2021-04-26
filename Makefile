@@ -3,7 +3,7 @@
 # project subdirectory.
 #
 
-PROJECT_NAME := scan
+PROJECT_NAME := wifi_mqtt
 
 include $(IDF_PATH)/make/project.mk
 
